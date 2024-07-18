@@ -28,11 +28,15 @@ See (example!) data file: [`ogd-radiosounding_PAY_now.csv`](https://github.com/M
 ### Parameter metadata and codes
 See (example!) [parameter metadata file](https://github.com/MeteoSwiss/publication-opendata/blob/main/data-atmosphere/radiosounding-PAY-metadata) incl. codes for 'Profile Type', 'Level Type' and 'Solar Radiation Correction'.
 
+The productive version will provide a parameter metadata file with the file name: `ogd-radiosounding_meta_parameters.csv`.
+
 <!-- ### Codes -->
 <!-- ... -->
 
 ### Station metadata
 See (example!) [station metadata file](https://data.geo.admin.ch/ch.meteoschweiz.messnetz-atmosphaere/ch.meteoschweiz.messnetz-atmosphaere_en.csv).
+
+The productive version will provide a station metadata file with the file name: ogd-radiosounding_meta_stations.csv.
 
 ### Data visualisation
 See e.g. MeteoSwiss' [Emagrams](https://www.meteoswiss.admin.ch/services-and-publications/applications/radio-soundings.html#tab=radio-soundings-emagram).
