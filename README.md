@@ -1,9 +1,15 @@
 [MeteoSwiss - Open Data](https://github.com/MeteoSwiss/opendata/blob/main/README.md) > [Understanding MeteoSwiss' Open Data products](https://github.com/MeteoSwiss/opendata/blob/main/README.md#understanding-meteoswiss-open-data-products) > B. Atmosphere Measurements
 
 # B. Atmosphere Measurements
-...
+MeteoSwiss obtains relevant data for weather forecasting and climate analysis from the [atmosphere](https://www.meteoswiss.admin.ch/weather/measurement-systems/atmosphere.html). The properties and composition of the atmosphere are studied using various instruments and methods, including weather balloons, satellites and laser equipment. Weather radar stations play an important role, as they record precipitation and thunderstorms throughout Switzerland in real time.
 
 1. [Radio soundings](#1-radio-soundings)
+2. Raman-LIDAR for Meteorological Observation (RALMO)
+3. LIDAR Ceilometer CHM15K
+4. Ozone measurements
+   - Ground-based: Dobson, Brewer
+   - Atmosphere: O3 radio soundings, SOMORA
+6. Swiss Alpine Climate Radiation Monitoring (SACRaM)
 
 ---
 
