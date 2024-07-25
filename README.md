@@ -3,7 +3,12 @@
 # B. Atmosphere Measurements
 MeteoSwiss obtains relevant data for weather forecasting and climate analysis from the [atmosphere](https://www.meteoswiss.admin.ch/weather/measurement-systems/atmosphere.html). The properties and composition of the atmosphere are studied using various instruments and methods, including weather balloons, satellites and laser equipment. Weather radar stations play an important role, as they record precipitation and thunderstorms throughout Switzerland in real time.
 
-1. [Radio soundings](#1-radio-soundings) :yellow_circle:
+The following measurements are available:
+
+1. [Radio soundings](#1-radio-soundings) :yellow_circle: *in review by MDI*
+
+The following measurements are planned to be made available:
+
 2. Raman-LIDAR for Meteorological Observation (RALMO)
 3. LIDAR Ceilometer CHM15K
 4. Ozone measurements
