@@ -11,7 +11,7 @@ The following measurements are planned to be made available for after the start 
 
 - Raman-LIDAR for Meteorological Observation (RALMO)
 - LIDAR Ceilometer CHM15K
-- Ozone measurements: a. Ground-based (Dobson, Brewer), b. Atmospher (O3 radio soundings, SOMORA)
+- Ozone measurements: a. Ground-based (Dobson, Brewer), b. Atmosphere (O3 radio soundings, SOMORA)
 - Swiss Alpine Climate Radiation Monitoring (SACRaM)
 
 <!-- ### General information
