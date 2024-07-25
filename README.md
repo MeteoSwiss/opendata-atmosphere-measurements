@@ -5,16 +5,16 @@ MeteoSwiss obtains relevant data for weather forecasting and climate analysis fr
 
 The following measurements are available:
 
-1. [Radio soundings](#1-radio-soundings) :yellow_circle: *in review by MDI*
+1. [Radio soundings](#1-radio-soundings) :yellow_circle: *in review by MDA*
 
 The following measurements are planned to be made available:
 
-2. Raman-LIDAR for Meteorological Observation (RALMO)
-3. LIDAR Ceilometer CHM15K
+2. Raman-LIDAR for Meteorological Observation (RALMO) :blue_circle: *planned for after go-live*
+3. LIDAR Ceilometer CHM15K :yellow_circle: :blue_circle: *planned for after go-live*
 4. Ozone measurements
-   - Ground-based: Dobson, Brewer
-   - Atmosphere: O3 radio soundings, SOMORA
-6. Swiss Alpine Climate Radiation Monitoring (SACRaM)
+   - Ground-based: Dobson, Brewer :blue_circle: *planned for after go-live*
+   - Atmosphere: O3 radio soundings, SOMORA :blue_circle: *planned for after go-live*
+6. Swiss Alpine Climate Radiation Monitoring (SACRaM) :blue_circle: *planned for after go-live*
 
 ---
 
