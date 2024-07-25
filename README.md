@@ -9,12 +9,12 @@ The following measurements are available:
 
 The following measurements are planned to be made available:
 
-- Raman-LIDAR for Meteorological Observation (RALMO) :blue_circle: *planned for after go-live*
-- LIDAR Ceilometer CHM15K :blue_circle: *planned for after go-live*
+- Raman-LIDAR for Meteorological Observation (RALMO) :large_blue_circle: *planned for after go-live*
+- LIDAR Ceilometer CHM15K :large_blue_circle: *planned for after go-live*
 - Ozone measurements
-   - Ground-based: Dobson, Brewer :blue_circle: *planned for after go-live*
-   - Atmosphere: O3 radio soundings, SOMORA :blue_circle: *planned for after go-live*
-- Swiss Alpine Climate Radiation Monitoring (SACRaM) :blue_circle: *planned for after go-live*
+   - Ground-based: Dobson, Brewer :large_blue_circle: *planned for after go-live*
+   - Atmosphere: O3 radio soundings, SOMORA :large_blue_circle: *planned for after go-live*
+- Swiss Alpine Climate Radiation Monitoring (SACRaM) :large_blue_circle: *planned for after go-live*
 
 ---
 
