@@ -7,14 +7,12 @@ The following measurements are available:
 
 1. [Radio soundings](#1-radio-soundings) :yellow_circle: *in review by MDA*
 
-The following measurements are planned to be made available:
+The following measurements are planned to be made available for after the start of MeteoSwiss' Open Data provision:
 
-- Raman-LIDAR for Meteorological Observation (RALMO) :large_blue_circle: *planned for after go-live*
-- LIDAR Ceilometer CHM15K :large_blue_circle: *planned for after go-live*
-- Ozone measurements
-   - Ground-based: Dobson, Brewer :large_blue_circle: *planned for after go-live*
-   - Atmosphere: O3 radio soundings, SOMORA :large_blue_circle: *planned for after go-live*
-- Swiss Alpine Climate Radiation Monitoring (SACRaM) :large_blue_circle: *planned for after go-live*
+- Raman-LIDAR for Meteorological Observation (RALMO)
+- LIDAR Ceilometer CHM15K
+- Ozone measurements: a. Ground-based (Dobson, Brewer), b. Atmospher (O3 radio soundings, SOMORA)
+- Swiss Alpine Climate Radiation Monitoring (SACRaM)
 
 <!-- ### General information
 All MeteoSwiss aerological stations have a name and an identfier consisting of three letters (e.g. `PAY` for [Payerne](https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/weather-balloon.html). Data files use this station identifier in the file name throughout all directories. A list of all aerological station identfiers with station names, coordinates, height etc. can be found in the according 'station metadata' sections below. -->
