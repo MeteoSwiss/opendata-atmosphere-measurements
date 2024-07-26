@@ -15,7 +15,7 @@ The following measurements are planned to be made available for after the start 
 - Swiss Alpine Climate Radiation Monitoring (SACRaM)
 
 <!-- ### General information
-All MeteoSwiss aerological stations have a name and an identfier consisting of three letters (e.g. `PAY` for [Payerne](https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/weather-balloon.html). Data files use this station identifier in the file name throughout all directories. A list of all aerological station identfiers with station names, coordinates, height etc. can be found in the according 'station metadata' sections below. -->
+All MeteoSwiss aerological stations have a name and an identfier consisting of three letters (e.g. `PAY` for [Payerne](https://www.meteoswiss.admin.ch/weather/weather-and-climate-from-a-to-z/weather-balloon.html). Data files use this station identifier (in lower case) in the file name throughout all directories. A list of all aerological station identfiers with station names, coordinates, height etc. can be found in the according 'station metadata' sections below. -->
 
 ---
 
