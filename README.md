@@ -5,7 +5,7 @@ MeteoSwiss measures relevant data for weather forecasting and climate analysis i
 
 The following measurements are available:
 
-1. [Radio soundings](#1-radio-soundings) :yellow_circle: *in review by MDA*
+1. [Radio soundings](#1-radio-soundings) :green_circle: *reviewed by MDA*
 
 The following measurements are planned to be made available for after the start of MeteoSwiss' Open Data provision:
 
